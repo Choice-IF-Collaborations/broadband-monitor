@@ -25,6 +25,10 @@ $(function() {
             'background-image': "url('/public/images/" + data.symbol + "')"
           });
 
+          if (!data.online) {
+            $('#device_' + index + ' .symbol').css({'opacity':0.2});
+          }
+
           if (data.notifications) {
             data.notifications.reverse();
             $('#device_' + index).css({

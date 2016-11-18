@@ -6,26 +6,32 @@
   },
   {
     "name": "Lounge TV",
-    "symbol": "symbol-tv.svg"
-  },
-  {
-    "name": "Bedroom TV",
-    "symbol": "symbol-tv.svg"
-  },
-  {
-    "name": "Desktop",
-    "symbol": "symbol-imac.svg"
+    "symbol": "symbol-tv.svg",
+    "online": true
   },
   {
     "name": "Laptop",
-    "symbol": "symbol-laptop.svg"
+    "symbol": "symbol-laptop.svg",
+    "online": true
   },
   {
     "name": "Phone",
-    "symbol": "symbol-phone.svg"
+    "symbol": "symbol-phone.svg",
+    "online": true
+  },
+  {
+    "name": "Bedroom TV",
+    "symbol": "symbol-tv.svg",
+    "online": false
+  },
+  {
+    "name": "Desktop",
+    "symbol": "symbol-imac.svg",
+    "online": false
   },
   {
     "name": "Tablet",
-    "symbol": "symbol-tablet.svg"
+    "symbol": "symbol-tablet.svg",
+    "online": false
   }
 ]
