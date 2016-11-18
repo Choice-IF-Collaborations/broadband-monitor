@@ -1,5 +1,10 @@
 [
   {
+    "name": "Internet Connection",
+    "symbol": "symbol-internet.svg",
+    "online": true
+  },
+  {
     "name": "Lounge TV",
     "symbol": "symbol-tv.svg"
   },
