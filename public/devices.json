@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Lounge TV",
+    "symbol": "symbol-tv.svg"
+  },
+  {
+    "name": "Bedroom TV",
+    "symbol": "symbol-tv.svg"
+  },
+  {
+    "name": "Desktop",
+    "symbol": "symbol-imac.svg"
+  },
+  {
+    "name": "Laptop",
+    "symbol": "symbol-laptop.svg"
+  },
+  {
+    "name": "Phone",
+    "symbol": "symbol-phone.svg"
+  },
+  {
+    "name": "Tablet",
+    "symbol": "symbol-tablet.svg"
+  }
+]
