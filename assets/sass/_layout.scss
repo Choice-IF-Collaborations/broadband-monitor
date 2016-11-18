@@ -75,6 +75,11 @@ a {
     text-align:center;
     font-size:0.8em;
 
+    a {
+      color:#000;
+      border-bottom:#d3d3d3 1px solid;
+    }
+
     .bubble {
       background:$orange;
       width:1.2em;

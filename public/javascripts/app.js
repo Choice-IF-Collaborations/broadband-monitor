@@ -16,7 +16,7 @@ $(function() {
             data.symbol = "placeholder.svg";
           }
 
-          $('#devices').append('<div id="device_' + index + '" class="device"><a href="#"><div class="symbol"></div><div class="label"><p>' + data.name + '</p></div></a></div>');
+          $('#devices').append('<div id="device_' + index + '" class="device"><a href="#"><div class="symbol"></div><div class="label"><a href="#">' + data.name + '</a></div></a></div>');
 
           $('#device_' + index + ' .symbol').css({
             'display': 'flex',
