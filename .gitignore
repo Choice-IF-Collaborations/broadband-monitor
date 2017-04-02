@@ -39,4 +39,4 @@ jspm_packages
 .AppleDouble
 .DS_Store
 
-public/stylesheets/public.css
+public/stylesheets/app.css
